@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<semuasoal>
+   <soalnya>
+      <soal>Ketika seseorang memotong dalam antrean, apa yang akan Anda lakukan?</soal>
+      <jawaban1>Selalu mengabaikannya begitu saja.</jawaban1>
+      <jawaban2>Lebih sering saya abaikan saja karena tidak terlalu penting.</jawaban2>
+      <jawaban3>Tergantung situasi, terkadang saya abaikan terkadang saya tegur.</jawaban3>
+      <jawaban4>Lebih sering saya tegur karena hal tersebut bukanlah hal yang semestinya.</jawaban4>
+      <jawaban5>Selalu saya tegur karena semua harus sesuai dan adil.</jawaban5>
+	  <result1>1</result1>
+	  <result2>2</result2>
+	  <result3>3</result3>
+	  <result4>4</result4>
+	  <result5>5</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Apakah Anda merasa sulit meminta tolong pada seorang teman untuk melakukan sesuatu untuk Anda?</soal>
+      <jawaban1>Saya merasa sulit karena saya tidak ingin memberatkan orang lain atas tugas saya.</jawaban1>
+      <jawaban2>Jika dalam kondisi benar-benar mendesak maka saya akan minta tolong orang lain.</jawaban2>
+      <jawaban3>Tergantung situasi dan urgensi, terkadang saya meminta tolong terkadang tidak jika tidak dibutuhkan.</jawaban3>
+      <jawaban4>Saya jarang meminta tolong karena saya merasa itu tugas saya dan saya berusaha menyelesaikannya sendiri.</jawaban4>
+      <jawaban5>Saya tidak pernah merasa sulit karena menurut saya meminta tolong adalah hal yang sopan dan baik.</jawaban5>
+	  <result1>1</result1>
+	  <result2>3</result2>
+	  <result3>5</result3>
+	  <result4>2</result4>
+	  <result5>4</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Jika atasan Anda meminta suatu permintaan yang tidak masuk akal, apakah Anda sulit untuk mengatakan tidak?</soal>
+      <jawaban1>Jika tugas tersebut memang tidak dapat dikerjakan, mengapa harus memaksa dikerjakan.</jawaban1>
+      <jawaban2>Jika tugas tersebut dalam proses hanya dapat diselesaikan sedikit maka kemungkinan saya tolak.</jawaban2>
+      <jawaban3>Terkadang saya tolak, terkadang saya terima, tergantung bagaimana tugas tersebut dan apakah saya dapat menyelesaikannya.</jawaban3>
+      <jawaban4>Saya jarang menolak perintah atasan kecuali jika hal tersebut benar-benar tidak mungkin.</jawaban4>
+      <jawaban5>Saya akan menerima karena walau bagaimanapun juga hal tersebut adalah perintah atasan.</jawaban5>
+	  <result1>4</result1>
+	  <result2>3</result2>
+	  <result3>5</result3>
+	  <result4>2</result4>
+	  <result5>1</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Apa yang Anda rasakan dan lakukan saat menerima pujian dari atasan Anda?</soal>
+      <jawaban1>Saya merasa sulit menerima pujian tersebut karena menurut saya itu berlebihan.</jawaban1>
+      <jawaban2>Saya merasa sedikit tersipu karena hal tersebut.</jawaban2>
+      <jawaban3>Saya merasa biasa saja.</jawaban3>
+      <jawaban4>Saya merasa bersyukur dan puas atas hasil kerja saya.</jawaban4>
+      <jawaban5>Saya merasa senang dan bangga atas pencapaian saya.</jawaban5>
+	  <result1>1</result1>
+	  <result2>3</result2>
+	  <result3>2</result3>
+	  <result4>5</result4>
+	  <result5>4</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Apakah Anda secara sukarela memberikan informasi ataupun opini dalam diskusi dengan orang-orang yang tidak Anda kenal baik?</soal>
+      <jawaban1>Ya, karena mereka adalah orang terdekat saya dan saya percaya.</jawaban1>
+      <jawaban2>Tergantung seberapa dekat, mungkin untuk keluarga dan sahabat saja.</jawaban2>
+      <jawaban3>Melihat kondisi terlebih dahulu, seberapa dekat dan seberapa penting informasi tersebut.</jawaban3>
+      <jawaban4>Saya jarang memberikan informasi kepada orang lain karena takut disalahgunakan.</jawaban4>
+      <jawaban5>Saya selalu menyimpan opini dan informasi tersebut karena untuk profesionalisme.</jawaban5>
+	  <result1>1</result1>
+	  <result2>2</result2>
+	  <result3>5</result3>
+	  <result4>4</result4>
+	  <result5>3</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Jika ada seorang public figure yang sangat Anda kagumi dan hormati di sebuah event besar, apa yang akan Anda lakukan?</soal>
+      <jawaban1>Saya akan memperkenalkan diri, mengajak ngobrol dan bertukar kartu nama.</jawaban1>
+      <jawaban2>Saya akan cukup bertukar kartu nama, jika saya merasa siap, saya akan berkenalan.</jawaban2>
+      <jawaban3>Tergantung kesiapan saya, terkadang saya tidak berkenalan dan terkadang berkenalan.</jawaban3>
+      <jawaban4>Saya jarang memperkenalkan diri kepada orang penting, biasanya hanya meminta foto.</jawaban4>
+      <jawaban5>Saya tidak pernah berani berkenalan dengan public figure.</jawaban5>
+	  <result1>4</result1>
+	  <result2>5</result2>
+	  <result3>3</result3>
+	  <result4>2</result4>
+	  <result5>1</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Jika kolega Anda membatalkan janjinya secara tiba-tiba untuk suatu keperluan penting, apa yang akan Anda lakukan?</soal>
+      <jawaban1>Saya akan menunjukkan betapa kecewanya saya.</jawaban1>
+      <jawaban2>Jika hal tersebut bukanlah hal yang cukup penting maka saya akan menujukkan sikap kecewa.</jawaban2>
+      <jawaban3>Jika hal tersebut dapat ditoleransi dan dia dapat mengatakan dengan jelas maka saya akan biasa saja.</jawaban3>
+      <jawaban4>Jika saya sangat kecewa, saya tidak dapat menyembunyikannya.</jawaban4>
+      <jawaban5>Saya selalu dapat menyembunyikan rasa kecewa dan sedih dan tidak ingin orang lain tahu.</jawaban5>
+	  <result1>1</result1>
+	  <result2>3</result2>
+	  <result3>5</result3>
+	  <result4>2</result4>
+	  <result5>4</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Jika Anda dalam situasi terburu-buru, sedangkan keadaan tidak memungkinkan untuk selesai secara cepat, apa yang akan Anda lakukan?</soal>
+      <jawaban1>Saya akan memaksa dan berusaha keras agar tetap dapat mendapatkan apa yang saya butuhkan.</jawaban1>
+      <jawaban2>Saya akan berusaha keras tetapi jika tidak bisa maka saya akan menerima.</jawaban2>
+      <jawaban3>Saya berusaha sebisa mungkin untuk mendapatkannya.</jawaban3>
+      <jawaban4>Saya akan berusaha sewajarnya, jika memang tidak mungkin yasudah.</jawaban4>
+      <jawaban5>Jika secara logis tidak mungkin, saya tidak akan mengusahakan lagi.</jawaban5>
+	  <result1>2</result1>
+	  <result2>5</result2>
+	  <result3>4</result3>
+	  <result4>1</result4>
+	  <result5>3</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Apakah Anda merasa sulit untuk menolak permintaan orang lain?</soal>
+      <jawaban1>Saya sulit menolak karena saya takut orang tersebut tersinggung.</jawaban1>
+      <jawaban2>Sebisa mungkin saya menerima permintaan orang lain jika memang bisa.</jawaban2>
+      <jawaban3>Jika bisa maka saya terima, jika tidak maka tidak saya terima.</jawaban3>
+      <jawaban4>Saya jarang menerima permintaan orang lain yang menurut saya tidak terlalu penting.</jawaban4>
+      <jawaban5>Saya selalu menolak permintaan orang lain jika tidak penting.</jawaban5>
+	  <result1>1</result1>
+	  <result2>4</result2>
+	  <result3>5</result3>
+	  <result4>2</result4>
+	  <result5>3</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Jika atasan Anda mengungkapkan pendapat yang sangat tidak Anda setujui, apa yang akan Anda lakukan?</soal>
+      <jawaban1>Saya akan menyatakan pendapat saya sejujurnya.</jawaban1>
+      <jawaban2>Saya akan menyatakan pendapat saya secara tersirat.</jawaban2>
+      <jawaban3>Saya akan menyatakan secara tersirat dan pada jalan tengah agar tidak terlihat mengarahkan.</jawaban3>
+      <jawaban4>Saya jarang berani mengungkapkan opini yang bertentangan.</jawaban4>
+      <jawaban5>Saya akan menyetujui walaupun bertentangan opini karena beliau adalah atasan yang harus saya hormati.</jawaban5>
+	  <result1>3</result1>
+	  <result2>4</result2>
+	  <result3>5</result3>
+	  <result4>2</result4>
+	  <result5>1</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Apakah Anda bersikeras agar orang lain melakukan pembagian secara adil?</soal>
+      <jawaban1>Jelas, karena keadilan adalah utama dan mutlak.</jawaban1>
+      <jawaban2>Tergantung apakah hal tersebut dapat ditoleransi atau tidak.</jawaban2>
+      <jawaban3>Melihat kondisi, jika kedua pihak puas walaupun bukan pada posisi yang adil maka tidak masalah.</jawaban3>
+      <jawaban4>Walaupun tidak adil tapi jika proporsinya cukup dan dapat berjalan baik tidak masalah.</jawaban4>
+      <jawaban5>Saya tidak pernah memaksa harus dibagi secara adil.</jawaban5>
+	  <result1>5</result1>
+	  <result2>3</result2>
+	  <result3>4</result3>
+	  <result4>2</result4>
+	  <result5>1</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Apa yang Anda lakukan dalam sebuah diskusi dengan kelompok kecil dari teman-teman sekantor Anda?</soal>
+      <jawaban1>Saya adalah pendengar dan pengamat yang baik dalam diskusi.</jawaban1>
+      <jawaban2>Saya lebih banyak mendengar dan berbicara sekedarnya.</jawaban2>
+      <jawaban3>Jika perlu bicara maka saya utarakan, jika tidak maka saya cukup mendengar.</jawaban3>
+      <jawaban4>Saya menjadi pengamat sejenak lalu aktif berpendapat.</jawaban4>
+      <jawaban5>Saya selalu aktif berpendapat dan mengarahkan teman-teman untuk berpendapat juga.</jawaban5>
+	  <result1>2</result1>
+	  <result2>1</result2>
+	  <result3>4</result3>
+	  <result4>5</result4>
+	  <result5>3</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Bagaimana perasaan Anda jika memiliki pendapat yang berbeda dengan orang lain?</soal>
+      <jawaban1>Saya merasa aman karena seharusnya selalu banyak pendapat tentang suatu hal.</jawaban1>
+      <jawaban2>Saya mendengarkan dan memperhatikan lalu memikirkannya kembali, mungkin saya dapat menerimanya.</jawaban2>
+      <jawaban3>Terkadang saya memikirkan ulang pendapat tersebut dan mencari jalan tengahnya.</jawaban3>
+      <jawaban4>Saya akan memikirkannya dan mempertimbangkan pendapat mana yang lebih baik.</jawaban4>
+      <jawaban5>Saya akan bersikeras mempertahankan argumen saya.</jawaban5>
+	  <result1>2</result1>
+	  <result2>3</result2>
+	  <result3>5</result3>
+	  <result4>4</result4>
+	  <result5>1</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Apakah Anda menunjukkan inisiatif dan berusaha untuk mengejar prestasi kinerja?</soal>
+      <jawaban1>Saya selalu menunjukkan inisiatif dalam bekerja.</jawaban1>
+      <jawaban2>Terkadang jika saya terpikirkan ide saya akan berinisiatif melakukan sesuatu.</jawaban2>
+      <jawaban3>Tergantung mood dan kondisi pribadi saya.</jawaban3>
+      <jawaban4>Saya jarang menunjukkan inisiatif tetapi saya pernah melakukannya.</jawaban4>
+      <jawaban5>Saya tidak pernah berinisiatif tetapi saya melakukan tugas yang ada sebaik mungkin.</jawaban5>
+	  <result1>5</result1>
+	  <result2>3</result2>
+	  <result3>1</result3>
+	  <result4>2</result4>
+	  <result5>4</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Dalam suatu kelompok, apa yang selalu Anda tampilkan tentang diri Anda?</soal>
+      <jawaban1>Saya memiliki percaya diri yang tinggi dan berkelas.</jawaban1>
+      <jawaban2>Saya ingin menjadi pusat perhatian dan tampil menonjol.</jawaban2>
+      <jawaban3>Saya menjadi pihak tengah yang biasa saja.</jawaban3>
+      <jawaban4>Saya ingin menjadi pengamat dan pendengar yang baik.</jawaban4>
+      <jawaban5>Saya mengikuti alur yang telah ada.</jawaban5>
+	  <result1>5</result1>
+	  <result2>2</result2>
+	  <result3>3</result3>
+	  <result4>4</result4>
+	  <result5>1</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Sistem bekerja yang paling nyaman bagi Anda adalah?</soal>
+      <jawaban1>Saya selalu senang bekerja sendiri.</jawaban1>
+      <jawaban2>Saya dapat bekerja berkelompok tetapi lebih senang bekerja sendiri.</jawaban2>
+      <jawaban3>Saya orang yang dapat bekerja berkelompok maupun individu.</jawaban3>
+      <jawaban4>Saya lebih senang bekerja berkelompok namun saya dapat bekerja sendiri.</jawaban4>
+      <jawaban5>Saya selalu senang bekerja dengan kelompok.</jawaban5>
+	  <result1>1</result1>
+	  <result2>3</result2>
+	  <result3>5</result3>
+	  <result4>4</result4>
+	  <result5>2</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Apa peran anda dalam menyelesaikan masalah pada suatu kelompok?</soal>
+      <jawaban1>Saya selalu menjadi tim kreatif yang menghasilkan ide.</jawaban1>
+      <jawaban2>Saya selalu menjadi pemimpin yang memberikan solusi tetapi pendengar yang baik.</jawaban2>
+      <jawaban3>Saya selalu menjadi pengamat dan menyatukan semua masukan.</jawaban3>
+      <jawaban4>Saya selalu mencari jalan tengah.</jawaban4>
+      <jawaban5>Saya akan mengikuti keputusan terbaik.</jawaban5>
+	  <result1>3</result1>
+	  <result2>5</result2>
+	  <result3>2</result3>
+	  <result4>4</result4>
+	  <result5>1</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Bagaimana Anda membagi tugas kepada rekan dan bawahan Anda?</soal>
+      <jawaban1>Saya membaginya sesuai kepribadian dan sifat.</jawaban1>
+      <jawaban2>Saya membaginya sesuai minat dan keinginan.</jawaban2>
+      <jawaban3>Saya membaginya sesuai keahlian dan keterampilan.</jawaban3>
+      <jawaban4>Saya membaginya dengan pertimbangan minat dan kemampuan.</jawaban4>
+      <jawaban5>Saya membaginya sesuai posisi masing-masing.</jawaban5>
+	  <result1>3</result1>
+	  <result2>2</result2>
+	  <result3>4</result3>
+	  <result4>5</result4>
+	  <result5>1</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Apa pendapat Anda tentang waktu?</soal>
+      <jawaban1>Tepat waktu adalah segalanya.</jawaban1>
+      <jawaban2>Tepat waktu adalah cara menghargai orang lain maka membuat perencanaan.</jawaban2>
+      <jawaban3>Harus dapat memanfaatkan waktu semaksimal mungkin secara otomatis.</jawaban3>
+      <jawaban4>Berusaha sebaik mungkin memanfaatkan waktu.</jawaban4>
+      <jawaban5>Santai dan berusaha sebaik mungkin.</jawaban5>
+	  <result1>2</result1>
+	  <result2>4</result2>
+	  <result3>3</result3>
+	  <result4>5</result4>
+	  <result5>1</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Bagaimanakah Anda dalam mengemukakan pendapat?</soal>
+      <jawaban1>Saya senang mengemukakan pendapat walaupun jika nanti berbeda dengan yang lain.</jawaban1>
+      <jawaban2>Saya berusaha keras mengemukakan pendapat, satu kali tapi penting.</jawaban2>
+      <jawaban3>Saya selalu mengutarakan semua yang saya pikirkan.</jawaban3>
+      <jawaban4>Saya hanya mengutarakan pendapat dalam hati.</jawaban4>
+      <jawaban5>Saya tidak pernah berminat untuk mengutarakan pendapat dan berdebat.</jawaban5>
+	  <result1>5</result1>
+	  <result2>3</result2>
+	  <result3>4</result3>
+	  <result4>2</result4>
+	  <result5>1</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Bagaimana Anda menilai sebuah permasalahan?</soal>
+      <jawaban1>Just Do It! Lakukan saja untuk menyelesaikannya.</jawaban1>
+      <jawaban2>Mempertimbangkan terlebih dahulu dengan memikirkannya.</jawaban2>
+      <jawaban3>Meminta pendapat untuk mencari solusi.</jawaban3>
+      <jawaban4>Menambah informasi, mempertimbangkan kemudian eksekusi.</jawaban4>
+      <jawaban5>Melakukan sebisa mungkin sambal berpikir cara terbaik.</jawaban5>
+	  <result1>3</result1>
+	  <result2>1</result2>
+	  <result3>2</result3>
+	  <result4>5</result4>
+	  <result5>4</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Bagaimana pribadi Anda menyelesaikan sebuah masalah?</soal>
+      <jawaban1>Menyelesaikannya sendiri.</jawaban1>
+      <jawaban2>Berusaha mungkin diselesaikan sendiri, jarang meminta tolong orang lain.</jawaban2>
+      <jawaban3>Saya berusaha menyelesaikan sendiri sambil meminta tolong orang lain.</jawaban3>
+      <jawaban4>Meminta pertolongan dan bersama-sama menyelesaikan namun terkadang menyelesaikan sendiri.</jawaban4>
+      <jawaban5>Selalu meminta bantuan orang lain.</jawaban5>
+	  <result1>2</result1>
+	  <result2>3</result2>
+	  <result3>5</result3>
+	  <result4>4</result4>
+	  <result5>1</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Seberapa sering Anda menyisihkan waktu untuk merencanakan dan berpikir tentang pekerjaan Anda?</soal>
+      <jawaban1>Saya hampir tidak pernah menyisihkan waktu untuk merencanakan dan berpikir tentang pekerjaan.</jawaban1>
+      <jawaban2>Terkadang saya memikirkannya saat waktu senggang.</jawaban2>
+      <jawaban3>Saya selalu menjadwalkan rutin untuk evaluasi dan merencanakan ulang walaupun tidak rutin.</jawaban3>
+      <jawaban4>Saya selalu rutin mengevaluasi diri dan memikirkan kembali seminggu sekali.</jawaban4>
+      <jawaban5>Saat saya membutuhkan berpikir ulang maka daya akan mengatur kembali pekerjaan saya.</jawaban5>
+	  <result1>1</result1>
+	  <result2>3</result2>
+	  <result3>4</result3>
+	  <result4>5</result4>
+	  <result5>2</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Apakah Anda menetapkan sasaran spesifik dan tertulis serta batas waktunya?</soal>
+      <jawaban1>Saya selalu menetapkan sasaran spesifik, tertulis dan batas waktunya.</jawaban1>
+      <jawaban2>Saya hanya menetapkan sasaran spesifik dan batas waktu di pikiran saya.</jawaban2>
+      <jawaban3>Saya hanya menetapkan sasaran secara umum dan batas waktu tertulis.</jawaban3>
+      <jawaban4>Saya cukup menetapkan sasaran tertulis.</jawaban4>
+      <jawaban5>Saya menjalani apa adanya dan mengalir.</jawaban5>
+	  <result1>5</result1>
+	  <result2>3</result2>
+	  <result3>4</result3>
+	  <result4>2</result4>
+	  <result5>1</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Apakah Anda membuat daftar harian urgensi dan prioritas pekerjaan?</soal>
+      <jawaban1>Saya selalu mencatat untuk mempertimbangkan pengambilan keputusan.</jawaban1>
+      <jawaban2>Saya membuat daftar hanya sebagai jadwal pengingat keseharian.</jawaban2>
+      <jawaban3>Saya mencatat untuk pertimbangan, sasaran dan deadline.</jawaban3>
+      <jawaban4>Saya jarang mencatat tetapi terekam selalu di pikiran saya.</jawaban4>
+      <jawaban5>Saya tidak membutuhkan daftar harian dan melakukan sesuai yang terdekat dan terpenting.</jawaban5>
+	  <result1>4</result1>
+	  <result2>3</result2>
+	  <result3>5</result3>
+	  <result4>2</result4>
+	  <result5>1</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Bagaimana pendapat Anda tentang hukum Pareto yang menyatakan bahwa 80% dari keefektifan biasanya berasal dari 20% sasaran?</soal>
+      <jawaban1>Yang paling penting adalah sasaran.</jawaban1>
+      <jawaban2>Efisien dalam proses adalah utama.</jawaban2>
+      <jawaban3>Proses adalah yang terpenting walaupun tidak sesuai hasil.</jawaban3>
+      <jawaban4>Sasaran harus tercapai dengan proses yang terbaik.</jawaban4>
+      <jawaban5>Sasaran harus tercapai dengan proses yang semestinya.</jawaban5>
+	  <result1>1</result1>
+	  <result2>2</result2>
+	  <result3>3</result3>
+	  <result4>5</result4>
+	  <result5>4</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Bagaimana sistem perencanaan Anda?</soal>
+      <jawaban1>Sistem perencanaan saya teratur dan rapi sesuai jadwal.</jawaban1>
+      <jawaban2>Sistem perencanaan saya sesuai prioritad.</jawaban2>
+      <jawaban3>Sistem perencanaan saya adalah mutlak.</jawaban3>
+      <jawaban4>Sistem perencanaan saya teratur dan adaptif.</jawaban4>
+      <jawaban5>Saya tidak membutuhkan sistem perencanaan.</jawaban5>
+	  <result1>3</result1>
+	  <result2>5</result2>
+	  <result3>2</result3>
+	  <result4>4</result4>
+	  <result5>1</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Apakah Anda sebagai seorang pemimpin mendelegasikan tugas pada staff Anda?</soal>
+      <jawaban1>Saya mendelegasikan semua tugas kepada semua staff dan saya sebagai pengontrol dan pengawas.</jawaban1>
+      <jawaban2>Saya mendelegasikan sebagian besar tugas kepada staff dan sebagian kepada saya.</jawaban2>
+      <jawaban3>Saya mendelegasikan tugas biasa kepada staff dan tugas penting untuk saya.</jawaban3>
+      <jawaban4>Saya mendelegasikan sebagian kecil tugas kepada staff.</jawaban4>
+      <jawaban5>Saya jarang mendelegasikan tugas kepada staff.</jawaban5>
+	  <result1>3</result1>
+	  <result2>4</result2>
+	  <result3>5</result3>
+	  <result4>2</result4>
+	  <result5>1</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Seberapa seringkah Anda berusaha dengan aktif untuk mencegah gangguan (tamu, rapat dan telepon) yang biasanya selalu mengacaukan hari kerja Anda?</soal>
+      <jawaban1>Saya tidak pernah merasa terganggung dengan itu.</jawaban1>
+      <jawaban2>Saya selalu menyortir seberapa penting hal tersebut terlebih dahulu.</jawaban2>
+      <jawaban3>Saya selalu menolak dan menjauhi hal tersebut agar pekerjaan saya selesai dengan baik.</jawaban3>
+      <jawaban4>Saya merasa biasa saja dan tidak masalah dengan hal tersebut.</jawaban4>
+      <jawaban5>Tergantung situasi apakah dapat dilakukan atau tidak.</jawaban5>
+	  <result1>3</result1>
+	  <result2>5</result2>
+	  <result3>2</result3>
+	  <result4>1</result4>
+	  <result5>4</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Apa yang Anda lakukan jika Anda ditunjuk sebagai pimpinan diskusi?</soal>
+      <jawaban1>Saya memberi orang lain pertanyaan menantang saat kami bekerjasama.</jawaban1>
+      <jawaban2>Saya memberi pernyataan dan pertanyaan pemicu di awal lalu sebagai pengamat.</jawaban2>
+      <jawaban3>Saya mengarahkan alur diskusi sesuai dengan harapan saya.</jawaban3>
+      <jawaban4>Saya selalu memberikan gagasan dan solusi secara langsung saat diskusi.</jawaban4>
+      <jawaban5>Saya cukup menjadi penengah dan pengambil pilihan terbanyak.</jawaban5>
+	  <result1>4</result1>
+	  <result2>5</result2>
+	  <result3>1</result3>
+	  <result4>3</result4>
+	  <result5>2</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Bagaimana Anda merespon pencapaian rekan kerja Anda?</soal>
+      <jawaban1>Saya mudah melakukan apresiasi positif kepada orang lain.</jawaban1>
+      <jawaban2>Saya akan memberikan apresiasi positif kepada rekan yang memang progressnya sangat luar biasa.</jawaban2>
+      <jawaban3>Saya memberi apresiasi sekedarnya, jika baik maka saya katakan baik jika tidak maka saya katakan tidak. Bukanlah hal yang utama.</jawaban3>
+      <jawaban4>Saya jarang memberi apresisasi positif kecuali memang hal tersebut luar biasa, tetapi jika kinerjanya negatif maka saya akan menunjukkan kekecawaan.</jawaban4>
+      <jawaban5>Saya tidak suka memberi apresiasi positif karena akan membuat orang terlalu sombong, namun saya lebih menggarisbawahi kinerja yang kurang baik agar terpacu.</jawaban5>
+	  <result1>5</result1>
+	  <result2>4</result2>
+	  <result3>3</result3>
+	  <result4>2</result4>
+	  <result5>1</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Bagaimana menurut Anda tentang pencapaian target tim dan individu?</soal>
+      <jawaban1>Target individu tercapai maka target tim tercapai.</jawaban1>
+      <jawaban2>Target tim adalah utama walau target individu tidak tercapai.</jawaban2>
+      <jawaban3>Sebisa mungkin kedua target tercapai walaupun keduanya tidak bisa 100%.</jawaban3>
+      <jawaban4>Mencapai target individu terlebih dahulu lalu kemudian target tim.</jawaban4>
+      <jawaban5>Mencapai target tim lebih dulu lalu kemudian target individu.</jawaban5>
+	  <result1>1</result1>
+	  <result2>3</result2>
+	  <result3>5</result3>
+	  <result4>2</result4>
+	  <result5>4</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Seberapa sering gagasan Anda diterima dan dijalankan dengan baik oleh tim atau rekan kerja Anda?</soal>
+      <jawaban1>Selalu, gagasan saya cemerlang dan selalu diterima.</jawaban1>
+      <jawaban2>Sering, kebanyakan gagasan saya unik sehingga dapat diterima.</jawaban2>
+      <jawaban3>Kadang-kadang, jika memang ide baik itu muncul.</jawaban3>
+      <jawaban4>Saya jarang mengungkapkan ide.</jawaban4>
+      <jawaban5>Saya bukan tipe orang penghasil ide.</jawaban5>
+	  <result1>5</result1>
+	  <result2>4</result2>
+	  <result3>3</result3>
+	  <result4>2</result4>
+	  <result5>1</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Seberapa pentingkah kekompkan tim bagi Anda?</soal>
+      <jawaban1>Tidak terlalu penting karena yang penting adalah target tercapai.</jawaban1>
+      <jawaban2>Penting tapi bukan yang utama.</jawaban2>
+      <jawaban3>Biasa saja karena kita di dunia profesional tidak begitu perlu kedekatan.</jawaban3>
+      <jawaban4>Cukup penting karena itu merupakan dorongan mencapai tujuan tim.</jawaban4>
+      <jawaban5>Sangat penting, walaupun tujuan tercapai lebih lama tetapi kedekatan individu harus terbangun kuat.</jawaban5>
+	  <result1>3</result1>
+	  <result2>1</result2>
+	  <result3>2</result3>
+	  <result4>5</result4>
+	  <result5>4</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Bagaimana pendapat Anda tentang masalah yang dihadapi dalam tim?</soal>
+      <jawaban1>Saya menganggap masalah yang dihadapi tim adalah masalah saya juga sehingga saya akan berusaha menyelesaikannya.</jawaban1>
+      <jawaban2>Ketua tim adalah penanggungjawab terbesar atas masalah itu.</jawaban2>
+      <jawaban3>Orang yang menimbulkan masalah itu adalah yang harus bertanggung jawab.</jawaban3>
+      <jawaban4>Jika masalah itu tidak berkaitan dengan saya maka saya tidak memikirkannya.</jawaban4>
+      <jawaban5>Masalah tim harus diselesaikan secara tim.</jawaban5>
+	  <result1>4</result1>
+	  <result2>2</result2>
+	  <result3>3</result3>
+	  <result4>1</result4>
+	  <result5>5</result5>
+   </soalnya>
+   <soalnya>
+      <soal>ABSEN =</soal>
+      <jawaban1>Bolos</jawaban1>
+      <jawaban2>Hadir</jawaban2>
+      <jawaban3>Tidak menentukan sikap</jawaban3>
+      <jawaban4>Ragu-ragu</jawaban4>
+      <jawaban5>Ada</jawaban5>
+	  <result1>5</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>PENGUAPAN =</soal>
+      <jawaban1>Dehidrasi</jawaban1>
+      <jawaban2>Rehidrasi</jawaban2>
+      <jawaban3>Reboisasi</jawaban3>
+      <jawaban4>Evaporasi</jawaban4>
+      <jawaban5>Evakuasi</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>5</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>PRUDENSIAL =</soal>
+      <jawaban1>Terjamin</jawaban1>
+      <jawaban2>Bijaksana</jawaban2>
+      <jawaban3>Asuransi</jawaban3>
+      <jawaban4>Aman</jawaban4>
+      <jawaban5>Kesehatan</jawaban5>
+	  <result1>0</result1>
+	  <result2>5</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>ACUH &gt;&lt;</soal>
+      <jawaban1>Peduli</jawaban1>
+      <jawaban2>Tidak mau tahu</jawaban2>
+      <jawaban3>Perhatian</jawaban3>
+      <jawaban4>Istimewa</jawaban4>
+      <jawaban5>Hirau</jawaban5>
+	  <result1>0</result1>
+	  <result2>5</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>ATROFI &gt;&lt;</soal>
+      <jawaban1>Kalah</jawaban1>
+      <jawaban2>Juara</jawaban2>
+      <jawaban3>Pembesaran</jawaban3>
+      <jawaban4>Piala</jawaban4>
+      <jawaban5>Piagam</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>5</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>SINKRON &gt;&lt;</soal>
+      <jawaban1>Selaras</jawaban1>
+      <jawaban2>Harmonis</jawaban2>
+      <jawaban3>Padu</jawaban3>
+      <jawaban4>Sumbang</jawaban4>
+      <jawaban5>Sama</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>5</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>TANGAN : TUBUH = DAHAN : ....</soal>
+      <jawaban1>Pohon</jawaban1>
+      <jawaban2>Rindang</jawaban2>
+      <jawaban3>Tangkai</jawaban3>
+      <jawaban4>Daun</jawaban4>
+      <jawaban5>Batang</jawaban5>
+	  <result1>5</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>GENTENG : RUMAH = BENANG : ...</soal>
+      <jawaban1>Sutra</jawaban1>
+      <jawaban2>Ulat</jawaban2>
+      <jawaban3>Kapas</jawaban3>
+      <jawaban4>Jahit</jawaban4>
+      <jawaban5>Pakaian</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>5</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>KUMAN : STERIL = ISTRI : ...</soal>
+      <jawaban1>Orang tua</jawaban1>
+      <jawaban2>Ibu</jawaban2>
+      <jawaban3>Kakak</jawaban3>
+      <jawaban4>Duda</jawaban4>
+      <jawaban5>Suami</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>5</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Bila seseorang berangkat bekerja pukul 06.10 menggunakan motornya dengan kecepatan tetap menempuh jarak 6 km dalam waktu 16 menit. Pada pukul berapa Dia sampai di kantornya bila jarak ke kantornya adalah 21 km ?</soal>
+      <jawaban1>07.00</jawaban1>
+      <jawaban2>07.02</jawaban2>
+      <jawaban3>07.03</jawaban3>
+      <jawaban4>07.06</jawaban4>
+      <jawaban5>07.09</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>5</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Jika dalam suatu kantor perbandingan antara pegawai wanita dan pegawai pria adalah 5 : 3, berapa persentase jumlah pegawai wanita pada kantor tersebut?</soal>
+      <jawaban1>25.5 %</jawaban1>
+      <jawaban2>32.5 %</jawaban2>
+      <jawaban3>48.5%</jawaban3>
+      <jawaban4>56.5%</jawaban4>
+      <jawaban5>62.5%</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>5</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Ahmad dan Beno mendaftar asuransi kesehatan dengan besaran premi yang sama. Apabila Ahmad yang menerima gaji sebesar Rp3.500.000,00 harus dipotong  5% untuk premi, berapa gaji Beno jika potongan preminya sebesar 4%?</soal>
+      <jawaban1>Rp3.750.000,00</jawaban1>
+      <jawaban2>Rp3.850.000,00</jawaban2>
+      <jawaban3>Rp4.150.000,00</jawaban3>
+      <jawaban4>Rp4.375.000,00</jawaban4>
+      <jawaban5>Rp4.750.000,00</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>5</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Delapan Pekerja Bangunan membutuhkan waktu 12 hari untuk membangun Pondasi Gedung. Berapa tambahan Pekerja yang dibutuhkan untuk membangun Pondasi Gedung dalam 2 hari ?</soal>
+      <jawaban1>36</jawaban1>
+      <jawaban2>38</jawaban2>
+      <jawaban3>40</jawaban3>
+      <jawaban4>42</jawaban4>
+      <jawaban5>44</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>5</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>0,4% x 0,5% : 0,1% x 0,2% x 0,3% = …</soal>
+      <jawaban1>33333,33</jawaban1>
+      <jawaban2>3333,333</jawaban2>
+      <jawaban3>333,3333</jawaban3>
+      <jawaban4>33,33333</jawaban4>
+      <jawaban5>3,333333</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>5</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Jika 20% dari s adalah 4m dan 30% dari s adalah 2n, berapa persen kah m+n dari s ?</soal>
+      <jawaban1>10%</jawaban1>
+      <jawaban2>20%</jawaban2>
+      <jawaban3>30%</jawaban3>
+      <jawaban4>40%</jawaban4>
+      <jawaban5>50%</jawaban5>
+	  <result1>5</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>27 x 56 – 19 x 62 + 27 x 44 – 19 x 38 = ...</soal>
+      <jawaban1>800</jawaban1>
+      <jawaban2>819</jawaban2>
+      <jawaban3>827</jawaban3>
+      <jawaban4>838</jawaban4>
+      <jawaban5>856</jawaban5>
+	  <result1>5</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Manakah dari bilangan berikut yang nilainya melebihi  nilai 4/3?</soal>
+      <jawaban1>125%</jawaban1>
+      <jawaban2>14/16</jawaban2>
+      <jawaban3>C.</jawaban3>
+      <jawaban4>0.99</jawaban4>
+      <jawaban5>1,4 x 0,8</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>5</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>56  52  48  96  92  …  …  172  168  336</soal>
+      <jawaban1>50  156</jawaban1>
+      <jawaban2>63  162</jawaban2>
+      <jawaban3>88  176</jawaban3>
+      <jawaban4>94  182</jawaban4>
+      <jawaban5>99  207</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>5</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>13  19  23  11  17  21  9  …  …</soal>
+      <jawaban1>12  16</jawaban1>
+      <jawaban2>13  17</jawaban2>
+      <jawaban3>14  18</jawaban3>
+      <jawaban4>15  19</jawaban4>
+      <jawaban5>16  20</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>5</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>2  3  5  8  13  21  34  …</soal>
+      <jawaban1>36</jawaban1>
+      <jawaban2>42</jawaban2>
+      <jawaban3>49</jawaban3>
+      <jawaban4>55</jawaban4>
+      <jawaban5>58</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>5</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>D,  E,  F,  I,  H,  G,  J,  K,  …,  …,</soal>
+      <jawaban1>L  O</jawaban1>
+      <jawaban2> L  N</jawaban2>
+      <jawaban3>N  M</jawaban3>
+      <jawaban4>M  N</jawaban4>
+      <jawaban5>N  O</jawaban5>
+	  <result1>5</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>A,  E,  D,  A,  F,  E,  A,  G,  F,  A,  H,  G,  …,  …,  …,</soal>
+      <jawaban1>A  H  I</jawaban1>
+      <jawaban2>A  I  H</jawaban2>
+      <jawaban3>H  I  A</jawaban3>
+      <jawaban4>H  A  I</jawaban4>
+      <jawaban5>I  H  A</jawaban5>
+	  <result1>0</result1>
+	  <result2>5</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Semua Karyawan mendapat gajiSebagian Karyawan mendapat bonusMaka, …</soal>
+      <jawaban1>Semua Karyawan mendapat gaji dan bonus</jawaban1>
+      <jawaban2>Karyawan yang mendapat gaji selalu mendapat bonus</jawaban2>
+      <jawaban3>Sebagian Karyawan mendapat gaji dan bonus</jawaban3>
+      <jawaban4>Karyawan yang mendapat gaji, tidak mendapat bonus</jawaban4>
+      <jawaban5>Karyawan tidak mendapat gaji dan bonus</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>5</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Tidak semua orang pergi ke Rumah Sakit karena SakitArif pergi ke Rumah SakitJadi, …</soal>
+      <jawaban1>Hari ini Arif sakit</jawaban1>
+      <jawaban2>Hari ini Arif tidak sakit</jawaban2>
+      <jawaban3>Rumah Sakit adalah tempat orang sakit</jawaban3>
+      <jawaban4>Hari ini Arif belum tentu sakit</jawaban4>
+      <jawaban5>Arif adalah seorang Dokter</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>5</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Pengurus bagian HRD seharusnya berjiwa SosialSebagian Karyawan pernah menjadi Pengurus bagian HRDmaka …</soal>
+      <jawaban1>Pengurus bagian HRD itu berjiwa sosial</jawaban1>
+      <jawaban2>Semua orang yang pernah menjadi Pengurus bagian HRD adalah Karyawan</jawaban2>
+      <jawaban3>Sebagian Karyawan ingin menjadi Pengurus bagian HRD</jawaban3>
+      <jawaban4>Semua pengurus bagian HRD berjiwa sosial</jawaban4>
+      <jawaban5>Sebagian Karyawan harusnya berjiwa sosial</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>5</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Setiap Karyawan Teladan pasti terkenal di JakartaSetiap Karyawan yang aktif pasti jadi TeladanSebagian Karyawan PT. X terkenal di Jakarta</soal>
+      <jawaban1>Sebagian Karyawan Teladan namun tidak terkenal di Jakarta</jawaban1>
+      <jawaban2>Ada Karyawan aktif tapi tidak terkenal di Jakarta</jawaban2>
+      <jawaban3>Seluruh Karyawan PT. X jadi Teladan dan terkenal di Jakarta</jawaban3>
+      <jawaban4>Karyawan PT. X yang aktif pasti terkenal di Jakarta</jawaban4>
+      <jawaban5>Sebagian Karyawan PT. X  yang aktif tidak terkenal di Jakarta</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>5</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Kota yang Indah akan banyak dikunjungi wisatawanKota A adalah Kota yang Indah, sedangkan Kota B tidak</soal>
+      <jawaban1>Kota A dan Kota B akan banyak dikunjungi wisatawan</jawaban1>
+      <jawaban2>Kota A dan Kota B tidak banyak dikunjungi wisatawan</jawaban2>
+      <jawaban3>Kota A akan tidak banyak dikunjungi wisatawan dan Kota B akan banyak dikunjungi wisatawan</jawaban3>
+      <jawaban4>Kota A akan banyak dikunjungi wisatawan dan Kota B tidak banyak dikunjungi wisatawan</jawaban4>
+      <jawaban5>Kota A dan Kota B sama banyak dikunjungi wisatawan</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>5</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Perhatikan teks berikut untuk menjawab soal nomor 63-65!Dalam sebuah Jamuan makan malam bersama, ada 8 orang entrepreneur (Arkham, Dodi,  Lala, Laura, Ganda, Martin, Rafa, dan Tata) duduk mengelilingi meja Bundar. Dengan ketentuan sebagai berikut :-	Ganda duduk berseberangan dengan Arkham-	Martin duduk diantara Tata dan Lala-	Laura dan Lala duduk berhadapan-	Tata duduk 2 kursi terpisah dari Arkham63.	Pernyataan di bawah ini yang PALING benar adalah …</soal>
+      <jawaban1>Tata duduk di seberang Rafa</jawaban1>
+      <jawaban2>Dodi duduk di antara Ganda dan Tata</jawaban2>
+      <jawaban3>Rafa dan Dodi duduk bersebelahan</jawaban3>
+      <jawaban4>Martin duduk berhadapan dengan Dodi</jawaban4>
+      <jawaban5>Martin dan Arkham duduk berseberangan</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>5</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Bila Martin dan Rafa duduk berseberangan, pernyataan di bawah ini yang benar adalah …</soal>
+      <jawaban1>Ganda duduk berhadapan dengan Dodi</jawaban1>
+      <jawaban2>Dodi duduk di antara Arkham dan Lala</jawaban2>
+      <jawaban3>Ganda duduk di sebelah Martin</jawaban3>
+      <jawaban4>Lala duduk di sebelah Dodi</jawaban4>
+      <jawaban5>Rafa duduk di antara Laura dan Dodi</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>5</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Bila Martin dipisahkan oleh 2 kursi dengan Didi, Pernyataan di bawah ini yang benar adalah …</soal>
+      <jawaban1>Martin dan Rafa dipisahkan oleh 2 kursi</jawaban1>
+      <jawaban2>Dodi dan Tata duduk berhadapan</jawaban2>
+      <jawaban3>Lala duduk di sebelah Ganda</jawaban3>
+      <jawaban4>Martin dan Arkham duduk berseberangan</jawaban4>
+      <jawaban5>Rafa duduk di dekat Tata</jawaban5>
+	  <result1>0</result1>
+	  <result2>5</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Pancasila disahkan oleh PPKI sebagai dasar filsafat negara Republik Indonesia pada tanggal ….</soal>
+      <jawaban1>15 Agustus 1945</jawaban1>
+      <jawaban2>17 Agustus 1945</jawaban2>
+      <jawaban3>18 Agustus 1945</jawaban3>
+      <jawaban4>22 Juni 1945</jawaban4>
+      <jawaban5>26 Juni 1945</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>5</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Pancasila sebagai dasar negara pada hakikatnya telah menjadikan bangsa Indonesia ber-Pancasila dalam tiga prakara atau tiga asas, yaitu ….</soal>
+      <jawaban1>ketuhanan, kemanusiaan, persatuan</jawaban1>
+      <jawaban2>kemanusiaan, persatuan, kerakyatan</jawaban2>
+      <jawaban3>persatuan, kerakyatan, keadilan</jawaban3>
+      <jawaban4>kerakyatan, keadilan, kebudayaan</jawaban4>
+      <jawaban5>kebudayaan, religius, kenegaraan</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>5</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Ideologi secara umum adalah suatu kumpulan gagasan, ide, keyakinan, serta kepercayaan yang bersifat sistematis yang mengarahkan tingkah laku seseorang dalam berbagai bidang kehidupan. Sebagai ideologi, Pancasila termasuk ke dalam ideologi terbuka karena ….</soal>
+      <jawaban1>nilai-nilai dan cita-cita dihasilkan dari pemikiran individu atau kelompok yang berkuasa dan masyarakatnya berkorban demi ideologinya</jawaban1>
+      <jawaban2>menolak reformasi</jawaban2>
+      <jawaban3>masyarakat harus taat kepada ideologi elite penguasa</jawaban3>
+      <jawaban4>penguasa bertanggung jawab pada masyarakat sebagai pengemban amanat rakyat</jawaban4>
+      <jawaban5>totaliter</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>5</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Pancasila sebagai suatu ideologi tidak bersifat kaku dan tertutup, namun bersifat reformatif, dinamis, dan terbuka. Hal ini dimaksudkan bahwa ideologi Pancasila adalah bersifat ….</soal>
+      <jawaban1>aktual, statis, dan antisipatif</jawaban1>
+      <jawaban2>aktual, dinamis, dan antisipatif</jawaban2>
+      <jawaban3>faktual,statis, dan pragmatis</jawaban3>
+      <jawaban4>faktual, dinamis, dan preventif</jawaban4>
+      <jawaban5>aktual, statis, dan responsive</jawaban5>
+	  <result1>0</result1>
+	  <result2>5</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Ideologi Pancasila berdasar pada hakikat sifat kodrat manusia sebagai makhluk individu dan makhluk sosial. Oleh karena itu ideologi Pancasila mengakui kebebasan hak-hak masyarakat. Kebebasan manusia dalam rangka demokrasi tidak melampaui hakikat nilai-nilai ….</soal>
+      <jawaban1>ketuhanan</jawaban1>
+      <jawaban2>kemanusiaan</jawaban2>
+      <jawaban3>persatuan</jawaban3>
+      <jawaban4>kerakyatan</jawaban4>
+      <jawaban5>keadilan</jawaban5>
+	  <result1>5</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Teks-teks yang termuat dalam konstitusi yang kemudian dikenali sebagai UUD 1945 adalah hasil perumusan apa yang terjadi di dalam kehidupan bermasyarakat. Keberadaan konstitusi dalam negara pada prinsipnya untuk ….</soal>
+      <jawaban1>membatasi kekuasaan pemerintah</jawaban1>
+      <jawaban2>memberikan kekuasaan tak terbatas pada pemerintah</jawaban2>
+      <jawaban3>jaminan atas kewajiban politik rakyat</jawaban3>
+      <jawaban4>kekuasaan parlemen di atas lembaga hukum</jawaban4>
+      <jawaban5>kekuasaan hukum di atas parlemen</jawaban5>
+	  <result1>5</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Konstitusi Indonesia yang dikenal sebagai UUD 1945 dalam konteks klasifikasi konstitusi adalah konstitusi yang ….</soal>
+      <jawaban1>tertulis, fleksibel, solid</jawaban1>
+      <jawaban2>tidak tertulis, fleksibel, rigid</jawaban2>
+      <jawaban3>tertulis, fleksibel, rigid</jawaban3>
+      <jawaban4>tidak tertulis, toleran, rigid</jawaban4>
+      <jawaban5>tertulis, toleran, solid</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>5</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>UUD 1945 sebagai hukum dasar Negara Kesatuan Republik Indonesia dipenuhi perdebatan yang sengit pada proses pembentukannya, terutama antara para founding fathers sebagai berikut, kecuali ….</soal>
+      <jawaban1>Soepomo</jawaban1>
+      <jawaban2>Muhammad Hatta</jawaban2>
+      <jawaban3>Muhammad Yamin</jawaban3>
+      <jawaban4>Soekarno</jawaban4>
+      <jawaban5>H.O.S. Tjokroaminoto</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>5</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Pada masa awal kemerdekaan, negara Indonesia belum mempunyai infrapolitik lengkap, yaitu lembaga-lembaga negara yang mestinya ada sesuai ketentuan UUD 1945. Berdasarkan aturan peralihan pasal IV kekuasaan lembaga negara dijalankan oleh ….</soal>
+      <jawaban1>perdana menteri</jawaban1>
+      <jawaban2>presiden</jawaban2>
+      <jawaban3>wakil presiden</jawaban3>
+      <jawaban4>BPUPKI</jawaban4>
+      <jawaban5>PPKI</jawaban5>
+	  <result1>0</result1>
+	  <result2>5</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Problem awal dalam penyelenggaraan negara justru mengingkari dibentuknya UUD 1945 yang berkeinginan adanya ….</soal>
+      <jawaban1>stabilitas ekonomi</jawaban1>
+      <jawaban2>swasembada pangan</jawaban2>
+      <jawaban3>pemusatan kekuasaan</jawaban3>
+      <jawaban4>pembatasan kekuasaan</jawaban4>
+      <jawaban5>kontrol sosial</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>5</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Berdasarkan wujud/bentuknya, penggolongan tata hukum di Indonesia terdiri atas hukum tertulis dan hukum tidak tertulis. Berikut adalah contoh hukum tertulis, kecuali ….</soal>
+      <jawaban1>hukum pidana</jawaban1>
+      <jawaban2>hukum perdata</jawaban2>
+      <jawaban3>hukum adat</jawaban3>
+      <jawaban4>hukum dagang</jawaban4>
+      <jawaban5>hukum tata usaha negara</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>5</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Hukum perdata adalah hukum yang mengatur hubungan antara orang yang satu dengan orang yang lain dengan menitikberatkan kepada kepentingan perseorangan. Ciri-ciri hukum perdata adalah sebagai berikut, kecuali ….</soal>
+      <jawaban1>mengatur hubungan antara anggota masyarakat dengan negara yang mengatur tata tertib masyarakatnya</jawaban1>
+      <jawaban2>mengatur hubungan antara orang yang satu dengan orang yang lain</jawaban2>
+      <jawaban3>mengatur hukum keluarga, hukum harta kekayaan, dan hukum waris</jawaban3>
+      <jawaban4>korban berlaku sebagai penggugat</jawaban4>
+      <jawaban5>Tersangka berlaku sebagai tergugat</jawaban5>
+	  <result1>5</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Sumber hukum Indonesia dibagi menjadi dua, yaitu sumber hukum material dan sumber hukum formal. Berikut yang termasuk sumber hukum formal, kecuali ….</soal>
+      <jawaban1>undang-undang</jawaban1>
+      <jawaban2>kebiasaan</jawaban2>
+      <jawaban3>keputusan-keputusan hakim</jawaban3>
+      <jawaban4>traktat</jawaban4>
+      <jawaban5>Pancasila</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>5</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Dalam membuat yurisprudensi biasanya seorang hakim akan melaksanakan berbagai macam penafsiran. Penafsiran dengan cara mempelajari hakikat tujuan undang-undang yang disesuaikan dengan perkembangan zaman disebut juga sebagai penafsiran ….</soal>
+      <jawaban1>gramatikal</jawaban1>
+      <jawaban2>historis</jawaban2>
+      <jawaban3>sistematis</jawaban3>
+      <jawaban4>teleologis</jawaban4>
+      <jawaban5>autentik</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>5</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Masalah-masalah yang menjadi jangkauan pengadilan tata usaha negara adalah sebagai berikut, kecuali ….</soal>
+      <jawaban1>bidang ekonomi</jawaban1>
+      <jawaban2>bidang politik</jawaban2>
+      <jawaban3>bidang sosial</jawaban3>
+      <jawaban4>bidang hak asasi manusia</jawaban4>
+      <jawaban5>bidang umum</jawaban5>
+	  <result1>0</result1>
+	  <result2>5</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Keuntungan sistem presidensial yang diterapkan dibawah UUD 1945 adalah ….</soal>
+      <jawaban1>executive heavy</jawaban1>
+      <jawaban2>legislative heavy</jawaban2>
+      <jawaban3>judicative heavy</jawaban3>
+      <jawaban4>stabilitas pemerintahan</jawaban4>
+      <jawaban5>stabilitas ekonomi</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>5</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Presiden dan wakil presiden merupakan satu institusi penyelenggara kekuasaan eksekutif negara yang tertinggi di bawah UUD 1945. Dalam sistem ini tidak dikenal dan tidak perlu dibedakan adanya ….</soal>
+      <jawaban1>kepala negara dan kepala pemerintahan</jawaban1>
+      <jawaban2>kepala negara dan kepala militer</jawaban2>
+      <jawaban3>kepala pemerintahan dan kepala militer</jawaban3>
+      <jawaban4>kepala negara dan kepala agama</jawaban4>
+      <jawaban5>kepala pemerintahan dan kepala agama</jawaban5>
+	  <result1>5</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Presiden dan/atau wakil presiden dapat dimintakan pertanggungjawabannya secara hukum apabila presiden dan/atau wakil presiden melakukan pelanggaran hukum konstitusi. Dalam hal demikian, presiden dan/atau wakil presiden dapat dituntut pertanggungjawaban untuk disidangkan dalam MPR, yaitu sidang gabungan antara ….</soal>
+      <jawaban1>MA dengan MK</jawaban1>
+      <jawaban2>KY dan KPK</jawaban2>
+      <jawaban3>DPR dan DPD</jawaban3>
+      <jawaban4>DPR dan MK</jawaban4>
+      <jawaban5>DPR dan MA</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>5</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Lembaga-lembaga independen yang dasar pembentukannya tidak diatur dalam UUD 1945 adalah sebagai berikut, kecuali ….</soal>
+      <jawaban1>Komnas HAM</jawaban1>
+      <jawaban2>KPK</jawaban2>
+      <jawaban3>Komisi Ombudsmen</jawaban3>
+      <jawaban4>KPPU</jawaban4>
+      <jawaban5>Bank Indonesia</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>5</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Anggota Komnas HAM berjumlah 35 orang yang dipilih oleh ….</soal>
+      <jawaban1>presiden</jawaban1>
+      <jawaban2>DPR</jawaban2>
+      <jawaban3>menteri hukum dan HAM</jawaban3>
+      <jawaban4>Mahkamah Agung</jawaban4>
+      <jawaban5>Mahkamah Konstitusi</jawaban5>
+	  <result1>0</result1>
+	  <result2>5</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Pada tahun 1913 Suwardi Suryaningrat alias Ki Hajar Dewantara ketika menjalani pembuangan di Belanda memberikan nama biro pers yang didirikannya dengan nama ….</soal>
+      <jawaban1>Indonesisch Persbureau</jawaban1>
+      <jawaban2>Indische Vereeniging</jawaban2>
+      <jawaban3>Indonesische Vereeniging</jawaban3>
+      <jawaban4>Perhimpunan Indonesia</jawaban4>
+      <jawaban5>Hindia Putera</jawaban5>
+	  <result1>5</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Sejalan dengan perubahan politik pemerintah kolonial, Wahidin Sudirohusodo, yang sejak tahun 1901 menjadi redaktur majalah Retnodhumilah, melalui majalahnya mempropagandakan pentingnya ….</soal>
+      <jawaban1>kesehatan</jawaban1>
+      <jawaban2>koperasi</jawaban2>
+      <jawaban3>pendidikan</jawaban3>
+      <jawaban4>politik</jawaban4>
+      <jawaban5>militer</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>5</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Pada tanggal 20 Mei 1908 di STOVIA (School tot Opleiding voor Inlandsche Artsen) oleh pelajar-pelajar di sana, didirikan organisasi bernama Budi Utomo dengan ketuanya adalah</soal>
+      <jawaban1>Wahidin Sudirohusodo</jawaban1>
+      <jawaban2>Sutomo</jawaban2>
+      <jawaban3>Suraji</jawaban3>
+      <jawaban4>Gunawan Mangunkusumo</jawaban4>
+      <jawaban5>Pangeran Ario Noto Dirojo</jawaban5>
+	  <result1>0</result1>
+	  <result2>5</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Ketua Indische Vereeniging, Nazir Datuk Pamuncak, menegaskan politik … sebagai sendi perjuangan rakyat Indonesia.</soal>
+      <jawaban1>etis</jawaban1>
+      <jawaban2>divide et impera</jawaban2>
+      <jawaban3>solidaritas</jawaban3>
+      <jawaban4>swadaya</jawaban4>
+      <jawaban5>nonkoperasi</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>5</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Perkembangan Perhimpunan Indonesia menjadi organisasi politik terutama merupakan hasil usaha ….</soal>
+      <jawaban1>Sutomo</jawaban1>
+      <jawaban2>Iwa Kusumasumantri</jawaban2>
+      <jawaban3>Nazir Datuk Pamuncak</jawaban3>
+      <jawaban4>Muhammad Hatta</jawaban4>
+      <jawaban5>Sukiman Wiryosanjoyo</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>5</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Republik Demokrasi Timor Leste (RDTL), saat ini belum dikategorikan sebagai anggota ASEAN sepenuhnya. RDTL masih diberikan status ….</soal>
+      <jawaban1>spectator</jawaban1>
+      <jawaban2>observer</jawaban2>
+      <jawaban3>bystander</jawaban3>
+      <jawaban4>watcher</jawaban4>
+      <jawaban5>witness</jawaban5>
+	  <result1>0</result1>
+	  <result2>5</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Sekretariat ASEAN berada di ….</soal>
+      <jawaban1>Jakarta</jawaban1>
+      <jawaban2>Singapura</jawaban2>
+      <jawaban3>Kuala Lumpur</jawaban3>
+      <jawaban4>Bangkok</jawaban4>
+      <jawaban5>Manila</jawaban5>
+	  <result1>5</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Tokoh-tokoh yang memegang peran kunci proses pendirian Gerakan Non Blok sejak awal adalah sebagai berikut, kecuali ….</soal>
+      <jawaban1>Presiden Mesir, Gamal Abdel Nasser</jawaban1>
+      <jawaban2>Presiden Ghana, Kwame Nkrumah</jawaban2>
+      <jawaban3>Perdana Menteri India, Jawaharlal Nehru</jawaban3>
+      <jawaban4>Presiden Indonesia, Sukarno</jawaban4>
+      <jawaban5>Presiden Yugoslavia, Slobodan Milošević</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>5</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Dalam beberapa tahun terakhir kegiatan yang menonjol antara Indonesia dan Colombo Plan adalah program pelatihan penanganan ….</soal>
+      <jawaban1>banjir</jawaban1>
+      <jawaban2>baby boom</jawaban2>
+      <jawaban3>kemiskinan</jawaban3>
+      <jawaban4>drug abuse</jawaban4>
+      <jawaban5>tsunami</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>5</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Indonesia telah terpilih sebagai anggota Dewan HAM PBB periode 2011-2014 dengan perolehan suara terbanyak yaitu 184 pada resumed session Sidang Majelis Umum PBB ke-65 di ….</soal>
+      <jawaban1>Jakarta</jawaban1>
+      <jawaban2>London</jawaban2>
+      <jawaban3>New York</jawaban3>
+      <jawaban4>Den Haag</jawaban4>
+      <jawaban5>Kyoto</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>5</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Bacalah teks berikut dengan saksama untuk menjawab pertanyaan nomor 96-98!Lukisan berjudul "Self Portrait and His Pipe" karya maestro Affandi yang hilang sejak 2006 ternyata sudah beberapa kali berpindah tangan sebelum dilelang. Lukisan itu menghilang dari rumah Emir Sundoro di Pondok Indah, Jakarta Selatan, sejak Mei 2014 lalu."Kami masih mengejar pemilik lukisan itu yang sekarang. Kami akan bekerja sama dengan Interpol dan polisi Hongkong untuk menyita barang itu," kata Direktur Reserse Kriminal Umum Polda Metro Jaya Komisaris Besar Heru Pranoto di Mapolda Metro Jaya, Selasa (5/5/2015).Sejak dibuat pada 1979, lukisan itu dimiliki oleh mantan Menteri Negara Perencanaan Pembangunan Nasional periode 1971-1973, Widjojo Nitisastro. Selanjutnya, lukisan itu dikuasai turun-temurun oleh keluarga Widjojo.Kemudian, lukisan itu dimiliki oleh Wijaya Laksmi Kusumaningsih, anak Widjojo satu-satunya, yang juga istri Emir Sundoro. Lukisan itu bertahun-tahun disimpan di rumah peninggalan Widjojo di kawasan Pondok Indah, Jakarta Selatan.Namun, lukisan itu justru berpindah tangan secara ilegal ke Irwan Perwito, seorang pekerja perbaikan pendingin ruangan (AC) dan listrik di rumah Widjojo. Pria itu pun menjual lukisan itu kepada seorang kolektor bernama Aryadi Atamini.Di tangan Aryadi, lukisan itu dibuatkan sertifikat dari Museum Affandi di Yogyakarta. Selanjutnya, Aryadi menjualnya kepada kolektor lainnya bernama Tirto Juwono Santoso senilai Rp1.350.000.000. Tirto kemudian menjualnya lagi kepada seorang pengusaha Alexander Teddja senilai Rp1.525.000.000.Barulah setelah di tangan Teddja, lukisan itu dilelang melalui balai lelang Sotheby’s di Hongkong senilai 420.212 dollar AS atau setara dengan Rp5,4 miliar. (megapolitan.kompas.com)96.	Judul yang tepat untuk bacaan tersebut adalah ….</soal>
+      <jawaban1>Self Portrait and His Pipe</jawaban1>
+      <jawaban2>Affandi Sang Maestro</jawaban2>
+      <jawaban3>Lukisan Affandi tembus Rp5,4 miliar di Sotheby’s Hongkong</jawaban3>
+      <jawaban4>Perjalanan Lukisan Maestro Affandi sejak Dicuri hingga Dilelang di Hongkong</jawaban4>
+      <jawaban5>Dari Pondok Indah, Jakarta ke Sotheby’s, Hongkong</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>5</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Berdasarkan bacaan tersebut, pencuri pertama lukisan “Self Portrait and His Pipe” adalah ….</soal>
+      <jawaban1>Wijaya Laksmi Kusumaningsih</jawaban1>
+      <jawaban2>Irwan Perwito</jawaban2>
+      <jawaban3>Aryadi Atamini</jawaban3>
+      <jawaban4>Tirto Juwono Santoso</jawaban4>
+      <jawaban5>Alexander Teddja</jawaban5>
+	  <result1>0</result1>
+	  <result2>5</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Paragraf yang tidak padu pada bacaan di atas adalah paragraf ….</soal>
+      <jawaban1>pertama</jawaban1>
+      <jawaban2>kedua</jawaban2>
+      <jawaban3>ketiga</jawaban3>
+      <jawaban4>keempat</jawaban4>
+      <jawaban5>kelima</jawaban5>
+	  <result1>5</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Penulisan kata serapan berikut benar, kecuali ….</soal>
+      <jawaban1>dekret</jawaban1>
+      <jawaban2>ekstrem</jawaban2>
+      <jawaban3>konkret</jawaban3>
+      <jawaban4>debit</jawaban4>
+      <jawaban5>malpraktik</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>0</result3>
+	  <result4>0</result4>
+	  <result5>5</result5>
+   </soalnya>
+   <soalnya>
+      <soal>Kalimat yang menggunakan tanda baca yang benar sesuai EYD adalah …</soal>
+      <jawaban1>Berapa harga pokok penjualan produk tersebut!</jawaban1>
+      <jawaban2>Sebutkan siapa saja yang bertanggung jawab atas insiden tersebut?</jawaban2>
+      <jawaban3>Presiden Jokowi mengundang para bupati, walikota, dan camat dari provinsi Jawa Tengah ke resepsi pernikahan anaknya.</jawaban3>
+      <jawaban4>Andri bisa melaksanakan ibadah umroh, karena menabung sejak ia masih muda.</jawaban4>
+      <jawaban5>Setelah meraih penghargaan tersebut, Herdian mengucapkan terima kasih kepada orangtuanya, Tuhan dan Pak Sukatno</jawaban5>
+	  <result1>0</result1>
+	  <result2>0</result2>
+	  <result3>5</result3>
+	  <result4>0</result4>
+	  <result5>0</result5>
+   </soalnya>
+</semuasoal>
